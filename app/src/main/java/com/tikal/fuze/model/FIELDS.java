@@ -27,7 +27,7 @@ public enum Fields {
     public static final int TYPE_VALUE  = 2;
 
     private int labelRes;
-
+    private String value;
     private int arrayRes = - 1;
 
     Fields(int labelRes)
@@ -56,4 +56,11 @@ public enum Fields {
         return arrayRes;
     }
 
+    public String getValue() {
+        return value;
+    }
+
+    public void setValue(String value) {
+        this.value = value;
+    }
 }
