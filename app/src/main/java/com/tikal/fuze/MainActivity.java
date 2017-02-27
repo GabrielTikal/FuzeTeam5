@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     android.support.v7.widget.RecyclerView mEmailEditText;
 
     @BindView(R.id.button)
-    private Button button;
+    Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
