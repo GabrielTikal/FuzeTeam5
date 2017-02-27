@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Fuze</string>
+    <string name="workclass">workplace</string>
+    <string name="age">age</string>
+    <string name="weight">weight</string>
+    <string name="education">education</string>
+    <string name="education_num">education-num</string>
+    <string name="marital_status">marital-status</string>
+    <string name="occupation">occupation</string>
+    <string name="relationship">relationship</string>
+    <string name="race">race</string>
+    <string name="sex">sex</string>
+    <string name="capital_gain">capital-gain</string>
+    <string name="capital_loss">capital-loss</string>
+    <string name="hours_per_week">hours-per-week</string>
+    <string name="native_country">native-country</string>
+
+
+    <array name="workclass">
+        <item>Private</item>
+        <item>Self-emp-not-inc</item>
+        <item>Self-emp-inc</item>
+        <item>Federal-gov</item>
+        <item>Local-gov</item>
+        <item>State-gov</item>
+        <item>Without-pay</item>
+        <item>Never-worked</item>
+    </array>
+    <array name="education">
+        <item>Bachelors</item>
+        <item>Some-college</item>
+        <item>11th</item>
+        <item>HS-grad</item>
+        <item>Assoc-acdm</item>
+        <item>Assoc-voc</item>
+        <item>9th</item>
+        <item>7th-8th</item>
+        <item>12th</item>
+        <item>Masters</item>
+        <item>1st-4th</item>
+        <item>10th</item>
+        <item>Doctorate</item>
+        <item>5th-6th</item>
+        <item>Preschool</item>
+    </array>
+
+    <array name="marital_status">
+        <item>Married-civ-spouse</item>
+        <item>Divorced</item>
+        <item>Never-married</item>
+        <item>Separated</item>
+        <item>Widowed</item>
+        <item>Married-spouse-absent</item>
+        <item>Married-AF-spouse</item>
+    </array>
+
+    <array name="occupation">
+        <item>Tech-support</item>
+        <item>Craft-repair</item>
+        <item>Other-service</item>
+        <item>Sales</item>
+        <item>Exec-managerial</item>
+        <item>Prof-specialty</item>
+        <item>Handlers-cleaners</item>
+        <item>Machine-op-inspct</item>
+        <item>Adm-clerical</item>
+        <item>Farming-fishing</item>
+        <item>Transport-moving</item>
+        <item>Priv-house-serv</item>
+        <item>Protective-serv</item>
+        <item>Armed-Forces</item>
+    </array>
+
+    <array name="relationship">
+        <item>Wife</item>
+        <item>Own-child</item>
+        <item>Husband</item>
+        <item>Not-in-family</item>
+        <item>Other-relative</item>
+        <item>Unmarried</item>
+    </array>
+
+    <array name="race">
+        <item>White</item>
+        <item>Asian-Pac-Islander</item>
+        <item>Amer-Indian-Eskimo</item>
+        <item>Other</item>
+        <item>Black</item>
+    </array>
+
+    <array name="sex">
+        <item>Female</item>
+        <item>Male</item>
+    </array>
+
+    <array name="native_country">
+        <item>United-States</item>
+        <item>Cambodia</item>
+        <item>England</item>
+        <item>Puerto-Rico</item>
+        <item>Canada</item>
+        <item>Germany</item>
+        <item>Outlying-US(Guam-USVI-etc)</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Greece</item>
+        <item>South</item>
+        <item>China</item>
+        <item>Cuba</item>
+        <item>Iran</item>
+        <item>Honduras</item>
+        <item>Philippines</item>
+        <item>Italy</item>
+        <item>Poland</item>
+        <item>Jamaica</item>
+        <item>Vietnam</item>
+        <item>Mexico</item>
+        <item>Portugal</item>
+        <item>Ireland</item>
+        <item>France</item>
+        <item>Dominican-Republic</item>
+        <item>Laos</item>
+        <item>Ecuador</item>
+        <item>Taiwan</item>
+        <item>Haiti</item>
+        <item>Columbia</item>
+        <item>Hungary</item>
+        <item>Guatemala</item>
+        <item>Nicaragua</item>
+        <item>Scotland</item>
+        <item>Thailand</item>
+        <item>Yugoslavia</item>
+        <item>El-Salvador</item>
+        <item>Trinadad Tobago</item>
+        <item>Peru</item>
+        <item>Hong</item>
+        <item>Holand-Netherlands</item>
+    </array>
+</resources>
+
